@@ -1,0 +1,10 @@
+/* Define button style */
+button {
+    display: block; /* Display as a block element */
+ }
+  
+/* Set margin for div, button elements */
+div, button {
+    margin: 0.5rem 0; /* 0.5rem top and bottom margin */
+}
+  
